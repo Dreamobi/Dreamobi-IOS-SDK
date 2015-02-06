@@ -9,7 +9,8 @@ The simplest way to obtain the Dreamobi iOS SDK is to click the "Download ZIP" b
 
 ##Package Contents
 * Document
-  * `Dreamobi SDK集成⽂文档1.6.1`  
+  * `Dreamobi SDK集成⽂文档1.6.1.pdf`  
+  * `Dreamobi SDK document.pdf`
 * Library
   * `DreamobiSDK.framework.zip` 
   
