@@ -1,7 +1,7 @@
 ## Dreamobi-iOS-SDK
 
-Modified: Feb 6,2015  
-SDK Version:1.6.1
+Modified: 2015/02/27
+SDK Version:1.6.2
 
 ##To Download
 
